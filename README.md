@@ -56,6 +56,6 @@ I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Vis
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kenfong0103/kenfong0103/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kenfong0103/kenfong0103/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
