@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Ken Fong Ka Kin ! 👋
 
-<!--
-**Kenfong0103/Kenfong0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Data Analytics Graduate** with expertise in **Machine Learning, Data Science, and Web Development**. I have hands-on experience in **Python, SQL, Power BI, Tableau, and Deep Learning**, and I'm passionate about solving real-world problems with data-driven solutions.
 
-Here are some ideas to get you started:
+### 💡 What I Do:
+- 📊 **Data Analysis & Visualization** (Power BI, Tableau, Matplotlib, Seaborn)
+- 🤖 **Machine Learning & AI** (Scikit-learn, TensorFlow, CNNs, Deep Learning)
+- 🖥️ **Web Development** (HTML, CSS, JavaScript, Flask, Streamlit)
+- 🏦 **Database Management** (SQL, Azure Database)
+- 🔄 **RPA & Automation** (UiPath, Blue Prism)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+### 🔹 **Camera-Based Detection for Evaluating Stainless Steel using CNN**
+- Built and deployed a **Convolutional Neural Network (CNN)** model to classify **seven types of stainless steel defects**.
+- Integrated a **real-time camera scanning feature** using **Streamlit** to automate defect detection.
+- Enhanced quality control processes by reducing manual inspection efforts.
+
+### 🔹 **Smart Health Prediction System**
+- Developed an AI-based healthcare prediction system to **forecast cardiovascular, diabetes, and stroke risks**.
+- Built a **web application** using **Python, HTML, CSS, and JavaScript**.
+- Collected and stored user inputs in **Google Sheets** for further analysis.
+
+### 🔹 **Real-Time EV Charging Station Dashboard**
+- Designed an **interactive dashboard in Power BI** to monitor charging station usage and revenue.
+- Processed and cleaned company data, establishing relationships between tables using **Power BI's ERD functionality**.
+- Scraped and analyzed nationwide **EV charging station data** using Python.
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+## 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+🚀 Let's connect and build something awesome together!
