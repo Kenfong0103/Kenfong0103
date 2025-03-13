@@ -15,7 +15,9 @@ I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Vis
 - Built and deployed a **Convolutional Neural Network (CNN)** model to classify **seven types of stainless steel defects**.
 - Integrated a **real-time camera scanning feature** using **Streamlit** to automate defect detection.
 - Enhanced quality control processes by reducing manual inspection efforts.
-
+- [Camera-Based Detection for Evaluating Stainless Steel](https://github.com/your-github/stainless-steel-detection)
+- [Smart Health Prediction System](https://github.com/your-github/smart-health-prediction)
+- [Real-Time EV Charging Station Dashboard](https://github.com/your-github/ev-charging-dashboard)
 ### 🔹 **Smart Health Prediction System**
 - Developed an AI-based healthcare prediction system to **forecast cardiovascular, diabetes, and stroke risks**.
 - Built a **web application** using **Python, HTML, CSS, and JavaScript**.
