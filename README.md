@@ -54,6 +54,8 @@ I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Vis
 
 🚀 Let's connect and build something awesome together!
 
-<img src="https://raw.githubusercontent.com/kenfong0103/kenfong0103/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kenfong0103/kenfong0103/output/snake.svg" alt="Snake animation" />
 
 ###
