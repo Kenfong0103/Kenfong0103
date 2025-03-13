@@ -41,6 +41,6 @@ I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Vis
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fong-ka-kin-ken/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kenfong0103)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fongkakinken@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](fongkakinken@gmail.com)
 
 🚀 Let's connect and build something awesome together!
