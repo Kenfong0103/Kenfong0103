@@ -21,7 +21,7 @@ I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Vis
 - Developed an AI-based healthcare prediction system to **forecast cardiovascular, diabetes, and stroke risks**.
 - Built a **web application** using **Python, HTML, CSS, and JavaScript**.
 - Collected and stored user inputs in **Google Sheets** for further analysis.
-- 🔗 **Explore My Projects:**[Camera-Based Detection for Evaluating Stainless Steel](https://well-ai.onrender.com/)
+- 🔗 **Explore My Projects:**[Smart Health Prediction System](https://well-ai.onrender.com/)
   
 ### 🔹 **Real-Time EV Charging Station Dashboard**
 - Designed an **interactive dashboard in Power BI** to monitor charging station usage and revenue.
