@@ -35,6 +35,11 @@ I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Vis
 - Processed and cleaned company data, establishing relationships between tables using **Power BI's ERD functionality**.
 - Scraped and analyzed nationwide **EV charging station data** using Python.
 
+### 🔹 **Other Projects**
+- [Smart Health Prediction System](https://github.com/Kenfong0103/Well-AI)
+- [Smart Health Prediction System](https://github.com/Kenfong0103/Well-AI)
+- [Smart Health Prediction System](https://github.com/Kenfong0103/Well-AI)
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
