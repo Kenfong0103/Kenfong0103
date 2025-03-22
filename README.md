@@ -36,9 +36,9 @@ I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Vis
 - Scraped and analyzed nationwide **EV charging station data** using Python.
 
 ### 🔹 **Other Projects**
-- [Smart Health Prediction System](https://github.com/Kenfong0103/Well-AI)
-- [Smart Health Prediction System](https://github.com/Kenfong0103/Well-AI)
-- [Smart Health Prediction System](https://github.com/Kenfong0103/Well-AI)
+- [Lipstick Recommendation System](https://github.com/AbrahamLimBingSern/Lipstick-Recommendation-System)
+- [Real time Webpage Dashboard Demo](https://github.com/Kenfong0103/Real-time-Webpage-Dashboard-Demo)
+- [Tableau Projects](https://public.tableau.com/app/profile/ken.fong0103/vizzes)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
