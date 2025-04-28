@@ -1,13 +1,13 @@
 # Hi there, I'm Ken Fong Ka Kin ! 👋
 
 ## 🚀 About Me
-I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Visualization**, **Machine Learning** and more. I have hands-on experience in **Python, SQL, Power BI, Tableau, and Deep Learning**, and I'm passionate about solving real-world problems with data-driven solutions.
+I'm a **Data Analytics Graduate** with experience in **Programming**, **Data Visualization**, **Machine Learning** and more. I have hands-on experience in **Python, ASP.NET, SQL, Power BI, Tableau, and Deep Learning**, and I'm passionate about solving real-world problems with data-driven solutions.
 
 ### 💡 What I Do:
 - 📊 **Data Analysis & Visualization** (Power BI, Tableau, Matplotlib, Seaborn)
 - 🤖 **Machine Learning & AI** (Scikit-learn, TensorFlow, CNNs, Deep Learning)
-- 🖥️ **Web Development** (HTML, CSS, JavaScript, Flask, Streamlit)
-- 🏦 **Database Management** (SQL, Azure Database)
+- 🖥️ **Web Development** (HTML, CSS, JavaScript, Flask, Streamlit, Wix)
+- 🏦 **Database Management** (MySQL, Azure Database)
 - 🔄 **RPA & Automation** (UiPath, Blue Prism)
 
 <div align="center">
